@@ -1,0 +1,10 @@
+body{
+    background-color: #e9edef;
+}
+i{
+    cursor: pointer;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
